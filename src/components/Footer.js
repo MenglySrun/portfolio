@@ -22,10 +22,10 @@ const Footer = () => {
             })}
           </div>
           <div>
-            <img src={Logo} alt='' />
+            <h1>@Mengly Srun</h1>
           </div>
           <p className='text-paragraph opacity-80 text-[15px]'>
-            &copy; 2022 Cristian Mihai. All rights reserved.
+            &copy; 2022 Mengly Srun.GitHub. All rights reserved.
           </p>
         </div>
       </div>

@@ -27,7 +27,7 @@ const Hero = () => {
             </button>
           </div>
           <div className='hidden lg:flex flex-1 justify-end items-end h-full'>
-            <img src={WomanImg} alt='' />
+           
           </div>
         </div>
       </div>
