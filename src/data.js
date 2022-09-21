@@ -231,22 +231,22 @@ export const testimonials = [
   {
     authorImg: TestiImage1,
     authorText:
-      'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
-    authorName: 'Olivia Doe',
+      'Hello I\'m Mengly Srun Nice to meet you',
+    authorName: 'mengly srun',
     authorPosition: 'Head of Design, Google',
   },
   {
     authorImg: TestiImage2,
     authorText:
-      'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
-    authorName: 'Olivia Doe',
+      'Hello I\'m Mengly Srun Nice to meet you',
+    authorName: 'Mengly Srun',
     authorPosition: 'Head of Design, Google',
   },
   {
     authorImg: TestiImage3,
     authorText:
-      'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
-    authorName: 'Olivia Doe',
+      'Hello I\'m Mengly Srun Nice to meet you',
+    authorName: 'Mengly Srun',
     authorPosition: 'Head of Design, Google',
   },
 ];
